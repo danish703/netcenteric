@@ -1,0 +1,7 @@
+D:\Deerwalk\FirstClass\FirstClass\bin\Debug\FirstClass.exe.config
+D:\Deerwalk\FirstClass\FirstClass\bin\Debug\FirstClass.exe
+D:\Deerwalk\FirstClass\FirstClass\bin\Debug\FirstClass.pdb
+D:\Deerwalk\FirstClass\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+D:\Deerwalk\FirstClass\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+D:\Deerwalk\FirstClass\FirstClass\obj\Debug\FirstClass.exe
+D:\Deerwalk\FirstClass\FirstClass\obj\Debug\FirstClass.pdb
